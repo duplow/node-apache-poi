@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\poi-binding">
+      <UniqueIdentifier>{DCC0A905-B496-FFFB-5115-189B01972807}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\poi-binding\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\poi-binding\src\poi-bin-5.2.0">
+      <UniqueIdentifier>{8BF427CB-7D67-CB15-6E0F-8BE6F35BC031}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:">
+      <UniqueIdentifier>{8CFF81E0-219F-7AC4-FE29-B3328AD4560B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\My Documents">
+      <UniqueIdentifier>{C9C42A8A-4EAB-7ED5-227F-F994493AF6FF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\My Documents\projects">
+      <UniqueIdentifier>{C36A6B64-3DFD-2D33-697D-48A06042D8A2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\My Documents\projects\personal">
+      <UniqueIdentifier>{763DBDF3-B740-A2BC-34C6-4A355F1B9C0D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\My Documents\projects\personal\node-apache-poi">
+      <UniqueIdentifier>{B2CF1B66-DDBA-F839-FB1F-2B498565675B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\My Documents\projects\personal\node-apache-poi\node_modules">
+      <UniqueIdentifier>{56DF7A98-063D-FB9D-485C-089023B4C16A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\My Documents\projects\personal\node-apache-poi\node_modules\node-gyp">
+      <UniqueIdentifier>{77348C0E-2034-7791-74D5-63C077DF5A3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\My Documents\projects\personal\node-apache-poi\node_modules\node-gyp\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\poi-binding\src\poi-bin-5.2.0\poi-5.2.0.jar">
+      <Filter>..\poi-binding\src\poi-bin-5.2.0</Filter>
+    </None>
+    <ClCompile Include="G:\My Documents\projects\personal\node-apache-poi\node_modules\node-gyp\src\win_delay_load_hook.cc">
+      <Filter>G:\My Documents\projects\personal\node-apache-poi\node_modules\node-gyp\src</Filter>
+    </ClCompile>
+    <None Include="..\binding.gyp">
+      <Filter>..</Filter>
+    </None>
+  </ItemGroup>
+</Project>

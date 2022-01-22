@@ -51,6 +51,7 @@ export interface IDocument {
   open(): Promise<IDocument>
 }
 
+// HSSF
 export interface IExcel extends IDocument {
   activeSheetIndex: number
   getSheets(): ISheet[]
@@ -59,6 +60,7 @@ export interface IExcel extends IDocument {
   newSheet(name: string) : ISheet
 }
 
+// XSSF
 export interface IWord extends IDocument {
 
 }
